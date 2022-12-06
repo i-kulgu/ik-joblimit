@@ -4,6 +4,7 @@ Easy configurable job limits with exports.
 
 ## Installation
 
+- Download and install cron from my repository : https://github.com/i-kulgu/cron
 - Download and place the resource in your resources folder
 - Run the joblimit.sql file in your database. This will add a column in your 'players' table named earnings
 - Use the following exports on the client or server side scripts:
