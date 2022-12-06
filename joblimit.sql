@@ -1,0 +1,1 @@
+ALTER TABLE `players` ADD COLUMN `earnings` INT(20) NOT NULL DEFAULT '0'
