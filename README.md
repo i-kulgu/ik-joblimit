@@ -1,5 +1,7 @@
 # IK-JobLimit
 
+If you like my work and want to support me : [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F3EU9ME)
+
 Easy configurable job limits with exports.
 
 ## Installation
